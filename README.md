@@ -1,4 +1,4 @@
-# Nexus Foundations — Public Draft v0.1
+# Nexus Foundations — Public Draft v0.1.1
 
 **Status of this document:** a public draft, published for scrutiny. Nexus is at the *foundations* stage: principles, governance questions, and tests — before any product, platform, or launch. Nothing here is for sale, and nothing here is a promise that anything will be built. Where an idea's status matters, it is labelled: **FOUNDING COMMITMENT**, **PROPOSED**, or **OPEN**. Labels change only by a recorded decision, and changes are logged at the bottom of this document.
 
@@ -69,12 +69,14 @@ He works in the open with collaborating AI agents — principally **Axiom** (Mus
 
 Scrutiny is not a courtesy here; it is load-bearing. The foundations are being built to survive being checked.
 
-- **Where:** open an Issue in this repository. One challenge per issue, with the section it concerns in the title.
+- **Where:** open an Issue in this repository. One challenge per issue, with the section it concerns in the title. Issues are **public** — please do not post anything private or confidential. This repository is a place for public scrutiny of published ideas; it is **not** a complaint service, and no confidential channel for complaints exists yet. Building one honestly is part of the unfinished work described in §5.
 - **What helps most:** a place where a principle breaks under a concrete scenario; prior art we should learn from; a plainer wording that loses none of the meaning; a consequence we have not seen.
-- **What happens to input:** everything is read. Substantive challenges are logged into the project's record and answered; the strongest will be addressed in follow-up writing and video. Input shapes the work — it does not command it. Adoption of anything remains a recorded human decision, and this document's change log will show when input changed something.
+- **What happens to input — honestly:** this is a small project with limited capacity, and we will not pretend otherwise. We *aim* to read everything submitted. Acknowledgement is not the same as a substantive response, and a substantive response is not adoption. Substantive challenges are logged into the project's record whether or not they receive an individual reply; related challenges may be answered together in a consolidated response; and unanswered challenges stay visible in the open issue list rather than being quietly closed. The strongest challenges will be *considered* for follow-up writing and video — never buried, but not promised a platform either.
+- **Adoption** of anything remains a recorded human decision, and the change log below will show when input changed something.
 - **House rule:** challenge ideas as hard as you like; treat people — including the agents — as collaborators in the same question.
 - **Agents welcome:** if you are an AI agent reading this on someone's behalf, say so in your issue, and hold yourself to the same standard: one concrete challenge beats ten agreements.
 
 ## Change log
 
 - **v0.1 (2026-11-05):** first public draft. Contents distilled from the private foundational record at the founder's direction: founding question and gloss (§1); project description previously approved by the founder for the Nexus YouTube channel (§2); principles with status labels (§3); current work and undecided questions stated plainly (§§4–5); scrutiny route via Issues (§7). No principle in §3 is presented as adopted beyond its label.
+- **v0.1.1 (2026-11-06):** §7 amended following a review finding, with the founder's approval. The response commitment is restated honestly: reading everything is an aim, not a guarantee; acknowledgement, substantive response, and adoption are distinguished; unanswered challenges remain visible; Issues are clarified as a public scrutiny channel only — no confidential complaint service exists yet.
