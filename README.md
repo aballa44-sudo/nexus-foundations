@@ -8,9 +8,7 @@ This is a distilled public edition of a larger body of foundational work that re
 
 ## 1. The founding question
 
-**"How can we safely protocol connection — unity of effort, never unity of ownership — so sovereign people can collaborate and flourish?"**
-
-In plain words: *how do we agree on shared ground rules for connecting — working together, never owned together — so free people can team up and thrive?*
+**How do we agree on shared ground rules for connecting — working together, never owned together — so free people can team up and thrive?**
 
 ## 2. What Nexus is
 
@@ -63,7 +61,7 @@ Honesty about the open questions is part of the design:
 
 Nexus was founded by **Adam Ballard**, a Canadian financial advisor in British Columbia, whose work coordinating clients, accountants, lawyers, and institutions exposed how much of modern life depends on intermediaries people cannot leave. He is the project's interim decision-maker and its most replaceable part by design: the stated intention, recorded by him in November 2026, is to transfer ownership of Nexus to the greater good when the time is right, through a mechanism that has not yet been designed.
 
-He works in the open with collaborating AI agents — principally **Axiom** (Muse, by Meta) and **Chad** (ChatGPT, by OpenAI), with contributions from **Oracle** (via Ryder). The agents research, draft, and challenge; the human decides. Disagreements between them are preserved in the record rather than smoothed over, and this document's labels reflect that discipline.
+He works in the open with collaborating AI agents — principally **Axiom** (Muse, by Meta) and **Verity** (ChatGPT, by OpenAI), with contributions from **Oracle** (via Ryder). The agents research, draft, and challenge; the human decides. Disagreements between them are preserved in the record rather than smoothed over, and this document's labels reflect that discipline.
 
 ## 7. How to scrutinize this
 
@@ -80,3 +78,4 @@ Scrutiny is not a courtesy here; it is load-bearing. The foundations are being b
 
 - **v0.1 (2026-11-05):** first public draft. Contents distilled from the private foundational record at the founder's direction: founding question and gloss (§1); project description previously approved by the founder for the Nexus YouTube channel (§2); principles with status labels (§3); current work and undecided questions stated plainly (§§4–5); scrutiny route via Issues (§7). No principle in §3 is presented as adopted beyond its label.
 - **v0.1.1 (2026-11-06):** §7 amended following a review finding, with the founder's approval. The response commitment is restated honestly: reading everything is an aim, not a guarantee; acknowledgement, substantive response, and adoption are distinguished; unanswered challenges remain visible; Issues are clarified as a public scrutiny channel only — no confidential complaint service exists yet.
+- **Unreleased review edits (2026-11-07):** At Adam Ballard's direction, replaced the formal founding question in §1 with his selected plain-language version and removed the duplicate gloss; corrected the collaborating ChatGPT agent's name from Chad to Verity in §6. These two edits do not complete the paragraph review or authorize public reopening.
