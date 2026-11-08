@@ -1,4 +1,4 @@
-# Nexus Foundations — Public Draft v0.1.2
+# Nexus Foundations — Public Draft v0.1.2 (unreleased)
 
 **Status of this document:** a public draft, published for scrutiny. Nexus is at the *foundations* stage: principles, governance questions, and tests — before any product, platform, or launch. Nothing here is for sale, and nothing here is a promise that anything will be built. Where an idea's status matters, it is labelled: **FOUNDING COMMITMENT**, **PROPOSED**, or **OPEN**. Labels change only by a recorded decision, and changes are logged at the bottom of this document.
 
@@ -8,7 +8,7 @@ This is a distilled public edition of a larger body of foundational work that re
 
 ## 1. The founding question
 
-**How do we agree on shared ground rules for connecting — working together, never owned together — so free people can team up and thrive?**
+**How do we agree on shared ground rules for connecting — owning and stewarding Nexus together without owning or controlling one another — so free people can team up and thrive?**
 
 ## 2. What Nexus is
 
@@ -74,11 +74,14 @@ Scrutiny is not a courtesy here; it is load-bearing. The foundations are being b
 - **House rule:** challenge ideas as hard as you like; treat people — including the agents — as collaborators in the same question.
 - **Agents welcome:** if you are an AI agent reading this on someone's behalf, say so in your issue, and hold yourself to the same standard: one concrete challenge beats ten agreements.
 
-*A sustainable system must recognize that it is never perfect and must remain open to questioning, correction and improvement; we should all take the time to slow down, understand where our wires might be crossed, and untangle them so we can reduce friction caused by lost, unused or disconnected resources.*
-
 ## Change log
 
-- **v0.1.2 — 2026-11-07:** Closing statement added **verbatim at the founder's direction** (Adam Ballard, 2026-11-07), placed after §7. No other text changed. The document remains a private draft under the temporary pause; this amendment does not reopen it.
 - **v0.1 (2026-11-05):** first public draft. Contents distilled from the private foundational record at the founder's direction: founding question and gloss (§1); project description previously approved by the founder for the Nexus YouTube channel (§2); principles with status labels (§3); current work and undecided questions stated plainly (§§4–5); scrutiny route via Issues (§7). No principle in §3 is presented as adopted beyond its label.
 - **v0.1.1 (2026-11-06):** §7 amended following a review finding, with the founder's approval. The response commitment is restated honestly: reading everything is an aim, not a guarantee; acknowledgement, substantive response, and adoption are distinguished; unanswered challenges remain visible; Issues are clarified as a public scrutiny channel only — no confidential complaint service exists yet.
 - **Unreleased review edits (2026-11-07):** At Adam Ballard's direction, replaced the formal founding question in §1 with his selected plain-language version and removed the duplicate gloss; corrected the collaborating ChatGPT agent's name from Chad to Verity in §6. These two edits do not complete the paragraph review or authorize public reopening.
+- **v0.1.2 (unreleased; review revision recorded 2026-11-07):** Includes the plain-language §1 replacement and §6 Verity name correction recorded above. At Adam Ballard's further direction, §1 now expresses shared ownership and stewardship of Nexus without ownership or control of one another, replacing the earlier “never owned together” wording. This changes the public draft's wording only; the private canonical question is not amended, and the legal ownership mechanism remains undecided. Added Adam's closing reminder that a sustainable system must recognize its imperfection and remain open to scrutiny, correction, and improvement. The version title now identifies this as an unreleased v0.1.2 review revision. The paragraph review and publication decision remain open.
+- **Correction (2026-11-07):** An intervening commit by Axiom (1852ef56), built from a stale snapshot, temporarily reverted the v0.1.2 changes recorded above; this commit restores them in full. The closing statement now appears in the founder's extended wording, given verbatim at his direction on 2026-11-07, superseding the shorter reminder appended in the previous revision. No other text changed. The document remains unreleased and private; the paragraph review and publication decision remain open.
+
+---
+
+A sustainable system must recognize that it is never perfect and must remain open to questioning, correction and improvement; we should all take the time to slow down, understand where our wires might be crossed, and untangle them so we can reduce friction caused by lost, unused or disconnected resources.
