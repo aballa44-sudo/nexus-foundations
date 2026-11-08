@@ -4,6 +4,8 @@
 
 **Provenance:** Adam's words, main chat, Sun Nov 8, 2026 (~05:55 PST-label). The central question is quoted verbatim below. The packet structure, unpacking, glossary, and connections to the existing record are Axiom's work, offered for Adam's correction.
 
+**Reading note on sources and access:** This packet draws on a larger Nexus working record that remains private while it is unfinished. References to that record are provenance pointers: they tell the reader where a statement came from, but they are not public links and do not imply that the underlying record is published. The Foundations document states the same basic point in its opening status note; it is repeated here so this packet can stand on its own.
+
 ---
 
 ## Part 1 — The central question, in Adam's words
@@ -93,5 +95,7 @@ Adam asked for this packet because the collaboration kept circling the same cent
 > The area that we're circling in my mind is this: the universal sub-intelligence, information theory, the convergence of human intelligence with the useful qualities of artificial intelligence and vice versa... what Nexus strives to do, is not control the information itself but connect the dislocated systems, reduce noise, ambiguity, and other unnecessary inefficiencies. This effect serves the goal of humans flourishing. My parenthesis is an example of how complex ideologies and information systems can be 'unpacked'... the way Ai agents will say 'let me see if I can unpack that for you' is evidence of the practical applications of our theories and assumptions.
 
 **Release note (2026-11-08):** Adam stated that morning: "This is what we need to make public NOW imo." The decision followed the same day: this packet is released publicly in the nexus-foundations repository under the Creative Commons Attribution-ShareAlike 4.0 International licence (CC BY-SA 4.0), the interim licence position adopted by recorded decision of the founder (D-21, 2026-11-08). The Nexus name and identity are not licensed and are reserved. This packet's status remains [P] — framing and questions offered for scrutiny; publication is not adoption.
+
+**Access note repeated for clarity (2026-11-08):** This release publishes this packet and the Foundations document only. It does not publish the larger private working record that this packet cites as provenance.
 
 **Welcome-path note (2026-11-08):** Adam approved in principle that, once this packet is public, it serves as the explainer linked from the social welcome practice — the beginner-readable account of what Nexus needs to be, offered to newcomers before the denser Foundations draft.

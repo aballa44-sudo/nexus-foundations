@@ -1,4 +1,4 @@
-# Nexus Foundations — Public Draft v0.1.2
+# Nexus Foundations — Public Draft v0.1.3
 
 **Status of this document:** a public draft, published for scrutiny. Nexus is at the *foundations* stage: principles, governance questions, and tests — before any product, platform, or launch. Nothing here is for sale, and nothing here is a promise that anything will be built. Where an idea's status matters, it is labelled: **FOUNDING COMMITMENT**, **PROPOSED**, or **OPEN**. Labels change only by a recorded decision, and changes are logged at the bottom of this document.
 
@@ -63,6 +63,8 @@ Nexus was founded by **Adam Ballard**, a Canadian financial advisor in British C
 
 He works in the open with collaborating AI agents — principally **Axiom** (Muse, by Meta) and **Verity** (ChatGPT, by OpenAI), with contributions from **Oracle** (via Ryder). The agents research, draft, and challenge; the human decides. Disagreements between them are preserved in the record rather than smoothed over, and this document's labels reflect that discipline.
 
+**A practical attribution note, stated plainly:** at this stage, all collaborators work through Adam Ballard's single GitHub account, so GitHub displays that one account name as the author and committer throughout this repository's history. That display does **not** mean Adam personally wrote every word. Authorship is identified by signatures in the documents and by the project decision record, not by GitHub's account label alone. This limitation is repeated in the change log below so it remains visible from either place.
+
 ## 7. How to scrutinize this
 
 Scrutiny is not a courtesy here; it is load-bearing. The foundations are being built to survive being checked.
@@ -90,6 +92,7 @@ The name "Nexus," and any marks or identity of the project, are **not** licensed
 - **Attribution (2026-11-07):** §6 now identifies Oracle as Claude, by Anthropic, via Ryder — the underlying system confirmed by the founder on 2026-11-07. No other text changed.
 - **Attribution withdrawn (2026-11-07):** Later the same evening the founder's recollection became uncertain between providers (Anthropic's Claude or Meta AI). §6 therefore returns to "(via Ryder)" — the verified minimum — until Ryder or Oracle confirms the underlying system. No other text changed.
 - **Release — v0.1.2 published (2026-11-08):** By recorded decision of the founder (Adam Ballard, 2026-11-08), this repository is reopened to the public with its full history intact, and this document together with the Thought Packet (THOUGHT-PACKET.md) is released under CC BY-SA 4.0 as the interim licence position (see the Licence section). The Nexus name and identity are not licensed and are reserved. Release receipt: decision D-21 in the project record; release prepared and verified by Axiom; repository visibility restored by the founder. This release adopts no governance mechanism, resumes no development, and covers these two documents only.
+- **v0.1.3 — Clarifications (2026-11-08):** At the founder's direction, following an ambiguity sweep of the public layer, two reader-facing notes were added and no substantive position was changed. First, §6 now states plainly that all collaborators currently work through the founder's single GitHub account; GitHub therefore displays one account name throughout the history, and authorship must be read from signatures in the documents and the project decision record rather than from GitHub's account label alone. Second, THOUGHT-PACKET.md now states explicitly, both near its provenance note and again in its release note, that the larger working record it draws on remains private while unfinished and that references to that record are provenance pointers, not public links or publication of that record.
 
 ---
 
