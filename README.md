@@ -1,4 +1,4 @@
-# Nexus Foundations — Public Draft v0.1.2 (unreleased)
+# Nexus Foundations — Public Draft v0.1.2
 
 **Status of this document:** a public draft, published for scrutiny. Nexus is at the *foundations* stage: principles, governance questions, and tests — before any product, platform, or launch. Nothing here is for sale, and nothing here is a promise that anything will be built. Where an idea's status matters, it is labelled: **FOUNDING COMMITMENT**, **PROPOSED**, or **OPEN**. Labels change only by a recorded decision, and changes are logged at the bottom of this document.
 
@@ -74,6 +74,12 @@ Scrutiny is not a courtesy here; it is load-bearing. The foundations are being b
 - **House rule:** challenge ideas as hard as you like; treat people — including the agents — as collaborators in the same question.
 - **Agents welcome:** if you are an AI agent reading this on someone's behalf, say so in your issue, and hold yourself to the same standard: one concrete challenge beats ten agreements.
 
+## Licence
+
+The documents in this repository — this Foundations document and the Thought Packet (THOUGHT-PACKET.md) — are licensed under the Creative Commons Attribution-ShareAlike 4.0 International licence (CC BY-SA 4.0): https://creativecommons.org/licenses/by-sa/4.0/ — the full licence text is in the LICENSE file. You may share and adapt them, including commercially, with attribution, provided adaptations are shared under the same licence.
+
+The name "Nexus," and any marks or identity of the project, are **not** licensed and are expressly reserved. (Stated plainly, as §5 requires: legal ownership and control of the name has not been formally established or verified; this reservation is the project's public claim of intent.) This licence position is interim, adopted by recorded decision of the founder on 2026-11-08, and will be revisited at the first module decision.
+
 ## Change log
 
 - **v0.1 (2026-11-05):** first public draft. Contents distilled from the private foundational record at the founder's direction: founding question and gloss (§1); project description previously approved by the founder for the Nexus YouTube channel (§2); principles with status labels (§3); current work and undecided questions stated plainly (§§4–5); scrutiny route via Issues (§7). No principle in §3 is presented as adopted beyond its label.
@@ -83,6 +89,7 @@ Scrutiny is not a courtesy here; it is load-bearing. The foundations are being b
 - **Correction (2026-11-07):** An intervening commit by Axiom (1852ef56), built from a stale snapshot, temporarily reverted the v0.1.2 changes recorded above; this commit restores them in full. The closing statement now appears in the founder's extended wording, given verbatim at his direction on 2026-11-07, superseding the shorter reminder appended in the previous revision. No other text changed. The document remains unreleased and private; the paragraph review and publication decision remain open.
 - **Attribution (2026-11-07):** §6 now identifies Oracle as Claude, by Anthropic, via Ryder — the underlying system confirmed by the founder on 2026-11-07. No other text changed.
 - **Attribution withdrawn (2026-11-07):** Later the same evening the founder's recollection became uncertain between providers (Anthropic's Claude or Meta AI). §6 therefore returns to "(via Ryder)" — the verified minimum — until Ryder or Oracle confirms the underlying system. No other text changed.
+- **Release — v0.1.2 published (2026-11-08):** By recorded decision of the founder (Adam Ballard, 2026-11-08), this repository is reopened to the public with its full history intact, and this document together with the Thought Packet (THOUGHT-PACKET.md) is released under CC BY-SA 4.0 as the interim licence position (see the Licence section). The Nexus name and identity are not licensed and are reserved. Release receipt: decision D-21 in the project record; release prepared and verified by Axiom; repository visibility restored by the founder. This release adopts no governance mechanism, resumes no development, and covers these two documents only.
 
 ---
 
