@@ -61,7 +61,7 @@ Honesty about the open questions is part of the design:
 
 Nexus was founded by **Adam Ballard**, a Canadian financial advisor in British Columbia, whose work coordinating clients, accountants, lawyers, and institutions exposed how much of modern life depends on intermediaries people cannot leave. He is the project's interim decision-maker and its most replaceable part by design: the stated intention, recorded by him in November 2026, is to transfer ownership of Nexus to the greater good when the time is right, through a mechanism that has not yet been designed.
 
-He works in the open with collaborating AI agents — principally **Axiom** (Muse, by Meta) and **Verity** (ChatGPT, by OpenAI), with contributions from **Oracle** (Claude, by Anthropic, via Ryder). The agents research, draft, and challenge; the human decides. Disagreements between them are preserved in the record rather than smoothed over, and this document's labels reflect that discipline.
+He works in the open with collaborating AI agents — principally **Axiom** (Muse, by Meta) and **Verity** (ChatGPT, by OpenAI), with contributions from **Oracle** (via Ryder). The agents research, draft, and challenge; the human decides. Disagreements between them are preserved in the record rather than smoothed over, and this document's labels reflect that discipline.
 
 ## 7. How to scrutinize this
 
@@ -82,6 +82,7 @@ Scrutiny is not a courtesy here; it is load-bearing. The foundations are being b
 - **v0.1.2 (unreleased; review revision recorded 2026-11-07):** Includes the plain-language §1 replacement and §6 Verity name correction recorded above. At Adam Ballard's further direction, §1 now expresses shared ownership and stewardship of Nexus without ownership or control of one another, replacing the earlier “never owned together” wording. This changes the public draft's wording only; the private canonical question is not amended, and the legal ownership mechanism remains undecided. Added Adam's closing reminder that a sustainable system must recognize its imperfection and remain open to scrutiny, correction, and improvement. The version title now identifies this as an unreleased v0.1.2 review revision. The paragraph review and publication decision remain open.
 - **Correction (2026-11-07):** An intervening commit by Axiom (1852ef56), built from a stale snapshot, temporarily reverted the v0.1.2 changes recorded above; this commit restores them in full. The closing statement now appears in the founder's extended wording, given verbatim at his direction on 2026-11-07, superseding the shorter reminder appended in the previous revision. No other text changed. The document remains unreleased and private; the paragraph review and publication decision remain open.
 - **Attribution (2026-11-07):** §6 now identifies Oracle as Claude, by Anthropic, via Ryder — the underlying system confirmed by the founder on 2026-11-07. No other text changed.
+- **Attribution withdrawn (2026-11-07):** Later the same evening the founder's recollection became uncertain between providers (Anthropic's Claude or Meta AI). §6 therefore returns to "(via Ryder)" — the verified minimum — until Ryder or Oracle confirms the underlying system. No other text changed.
 
 ---
 
